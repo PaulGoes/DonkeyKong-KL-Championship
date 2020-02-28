@@ -2,7 +2,7 @@
 
 Kong League Championship
 
-This is the Donkey Kong - Kong League Championship rom-hack for the arcde version of Donkey Kong.
+This is the Donkey Kong - Kong League Championship rom-hack for the arcade version of Donkey Kong.
 
 The idea is to have a Donkey Kong version with a shorter gameplay by introducing the famous Kill Screen at an earlier level. 
 This version could be used in one-on-one or head-to-head games and tournaments.
