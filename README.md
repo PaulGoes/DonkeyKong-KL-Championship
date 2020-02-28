@@ -7,7 +7,7 @@ This is the Donkey Kong - Kong League Championship rom-hack for the arcade versi
 The idea is to have a Donkey Kong version with a shorter gameplay by introducing the famous Kill Screen at an earlier level. 
 This version could be used in one-on-one or head-to-head games and tournaments.
 
---> plaatje invoegen met het titelscherm
+![DKC Title Screen](https://github.com/PaulGoes/DonkeyKong-KL-Championship/blob/master/Title%20Screen.jpg)
 
 The game defaults to a Kill Screen at level 11. But this is configurable using the dip switches that normally control the bonus life threshold. The bonus life threshold is now fixed at 7000. The following dip switch settings control the Kill Screen level:
 
