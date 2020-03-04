@@ -28,5 +28,5 @@ One additional thing. During the design I restricted myself to the following con
 - Use the orginal dkong rom (US version). This meant that I only had around 256 bytes of free space to put my changes in. Quite a challenge I must say!
 - Do not change anything in the core gameplay logic. This was possible because the bonus timer is calculated before the level/screen starts to play so the required change doesn't impact the gameplay itself.
 
-On most other emulators (e.g. WolfMame) you can play this game by replacing the original dkong.zip by this Kong League Championship version of the dkong.zip. You have to start the emulator without checksum checking (in WolfMame by starting it from the command line and specifying the romname).
+It is decided that this verfsion was a one off version. This rom-hack will continue as the Donkey Kong Championship Edition. It will not be available for download. The repository is kept for the images.
 
