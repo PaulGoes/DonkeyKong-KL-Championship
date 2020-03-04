@@ -28,5 +28,5 @@ One additional thing. During the design I restricted myself to the following con
 - Use the orginal dkong rom (US version). This meant that I only had around 256 bytes of free space to put my changes in. Quite a challenge I must say!
 - Do not change anything in the core gameplay logic. This was possible because the bonus timer is calculated before the level/screen starts to play so the required change doesn't impact the gameplay itself.
 
-It is decided that this verfsion was a one off version. This rom-hack will continue as the Donkey Kong Championship Edition. It will not be available for download. This repository is kept for the images.
+It is decided that this version was a one off version. This rom-hack will continue as the Donkey Kong Championship Edition. It will not be available for download. This repository is kept for the images.
 
