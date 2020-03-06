@@ -30,3 +30,5 @@ One additional thing. During the design I restricted myself to the following con
 
 It is decided that this version was a one off version. This rom-hack will continue as the Donkey Kong Championship Edition. It will not be available for download. This repository is kept for the images.
 
+For more information about Donkey Kong Championship Edition: [direct link](https://github.com/PaulGoes/DonkeyKong-Championship).
+
